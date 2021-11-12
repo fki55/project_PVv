@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Photovoltaïque application</string>
+    <string name="liste_des_panneaux">Liste des Panneaux</string>
+    <string name="lojons1">195</string>
+    <string name="larjon11">99</string>
+    <string name="lojons2">201</string>
+    <string name="larjon22">99</string>
+    <string name="lojons3">202</string>
+    <string name="larjon33">100</string>
+    <string name="lojons4">210</string>
+    <string name="larjon44">104</string>
+    <string name="lojons5">225</string>
+    <string name="larjon55">113</string>
+    <string name="longeuraxitec1">175</string>
+    <string name="largeuraxitec11">103</string>
+    <string name="longeuraxitec2">172</string>
+    <string name="largeuraxitec22">113</string>
+    <string name="longeuraxitec3">209</string>
+    <string name="largeuraxitec33">103</string>
+    <string name="longeuraxitec4">227</string>
+    <string name="largeuraxitec44">113</string>
+    <string name="pardefaut1">0</string>
+    <string name="intial">Choisir la marque du panneau</string>
+    <string-array name="spinner_array">
+        <item>choisir votre panneau</item>
+        <item>Panneau Jonsol Monocristallin 320_340 W</item>
+        <item>Panneau Jonsol Monocristallin 375_390 W</item>
+        <item>Panneau Jonsol Monocristallin 390_415 W</item>
+        <item>Panneau Jonsol Monocristallin 430_450 W</item>
+        <item>Panneau Jonsol Monocristallin 530_550 W</item>
+        <item>Panneau Axitec Monocristallin 350_380 W</item>
+        <item>Panneau Axitec Monocristallin 390_410 W</item>
+        <item>Panneau Axitec Monocristallin 430_455 W</item>
+        <item>Panneau Axitec Monocristallin 530_545 W</item>
+
+    </string-array>
+</resources>
